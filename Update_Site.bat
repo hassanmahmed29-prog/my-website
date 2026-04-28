@@ -1,7 +1,7 @@
 @echo off
-cd /d "D:\موقع المصنع 09 - نسخة"
+cd /d "D:\موقع المصنع 09"
 git add .
-git commit -m "Update models"
+git commit -m "تحديث موديلات المصنع"
 git push
 echo Done! Updates are live.
 pause
